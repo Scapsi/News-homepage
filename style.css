@@ -1,0 +1,91 @@
+body{
+    font-family:"montserat-black";
+    color: #150050;
+    
+}
+#title{
+    background-color:#fff;
+    padding: 3% 15% 0%;
+}
+#pecs{
+    padding: 3% 15% 7%;
+    
+}
+.pecs-images{
+    width: 100%;
+    
+}
+.desktop-image{
+    width: 100%;
+    padding-bottom: 3%;
+}
+h1,h4{
+text-align: left;
+font-size: 2.5rem;
+font-family: "montserat-bold";
+font-weight: bold;
+}
+h3{
+    font-size: small;
+    text-align: left;
+    font-family: "montserat-bold";
+}
+h2{
+    font-size: medium;
+    font-family: "montserat-bold";
+    text-align: left;
+    font-weight: bold;
+}
+p{font-family: "montserat-bold";
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: darkgray;
+    padding: 0;
+
+}
+h4,h2:hover{
+    color: #EF9A53;
+}
+a:hover{color: #E94560;}
+.alt-h2{
+    padding: 0;
+    text-align: center;
+}
+.alt-h2:hover{
+    color:#E94560 ;
+}
+#hydrogen{
+    background-color:#16213E;
+color: #fff;
+padding: 10px 15px ;
+}
+.navbar{
+    padding:0 0 1.5rem ;
+}
+.navbar-brand{
+    font-family: "montserrat-bold";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family:"montserrat-black"; }
+    .nav-link:hover{
+        color: #E94560 !important;
+    }
+
+     
+
+
+
+
+
+
+
+
+
+.attribution { font-size: 20px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
